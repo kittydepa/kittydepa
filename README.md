@@ -1,9 +1,4 @@
-## Hi there 👋 I'm Kitty
-
-Welcome to my GitHub!  
-I’m passionate about user experience, technological innovation, and making complex ideas clear through great documentation. I thrive at the intersection of research, engineering, and communication.
-
----
+# Hi there 👋 I'm Kitty
 
 ## 🚀 What I Do
 
@@ -15,18 +10,6 @@ I’m passionate about user experience, technological innovation, and making com
 
 - **Python & Automation:**  
   I like to (try to) build with Python, experiment with microcontrollers, and enjoy exploring automation solutions.
-
-- **Community & Learning:**  
-  As a co-organiser for PyLadies Stockholm, I hold workshops and study groups to help others learn Python and build community.
-
----
-
-##  Skills & Tools
-
-- **Docs:** Markdown, DITA/XML, reStructuredText, Vale.sh, HTML
-- **Dev:** Python, Git (GitHub & GitLab), CI/CD pipelines
-- **Static Sites:** Hugo, MkDocs, Read the Docs
-- **UX/Research:** User research, qualitative analysis
 
 ---
 
