@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kitty
+# Hi there! I'm Kitty
 
 ## 🚀 What I Do
 
