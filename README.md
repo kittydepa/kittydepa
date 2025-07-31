@@ -10,8 +10,8 @@ I’m passionate about user experience, technological innovation, and making com
 - **Technical Writing & Documentation:**  
   I create, review, and improve documentation for software teams — from SDKs and APIs to user guides and developer portals. I love making docs useful and usable.
 
-- **Developer Experience:**  
-  I work with cross-functional teams to streamline tooling and workflows, especially for Docs-as-Code setups and automation in documentation.
+- **Software Development Life Cycle Experience:**  
+  I work with cross-functional teams to streamline tooling and workflows, especially for (but not limited to) Docs-as-Code setups and automation in documentation.
 
 - **Python & Automation:**  
   I like to (try to) build with Python, experiment with microcontrollers, and enjoy exploring automation solutions.
@@ -25,9 +25,8 @@ I’m passionate about user experience, technological innovation, and making com
 
 - **Docs:** Markdown, DITA/XML, reStructuredText, Vale.sh, HTML
 - **Dev:** Python, Git (GitHub & GitLab), CI/CD pipelines
-- **Static Sites:** Hugo, MkDocs, Material
+- **Static Sites:** Hugo, MkDocs, Read the Docs
 - **UX/Research:** User research, qualitative analysis
-- **VS Code**
 
 ---
 
@@ -36,7 +35,7 @@ I’m passionate about user experience, technological innovation, and making com
 - LLMs & Generative AI
 - Video game design & creation
 - New ways to document APIs & developer tools
-- Leatherworking & embroidery (for fun!)
+- Leatherworking, knitting, & embroidery (for fun!)
 
 ---
 
